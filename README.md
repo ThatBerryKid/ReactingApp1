@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#JWBerry's first React app that has been published.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/713cb6a8-84f0-4a9d-9e99-523f44958904/deploy-status)](https://app.netlify.com/sites/jwreact1/deploys)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
